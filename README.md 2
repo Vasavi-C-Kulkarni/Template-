@@ -1,4 +1,9 @@
 # Template-
 This is a demo repository 
-printf("hello worldwide")
-printf("demo repository")
+#include<stdio.h>
+void main()
+{
+printf("hello worldwide");
+printf("demo repository");
+printf("this is collabortary ");
+}
